@@ -1,0 +1,6 @@
+{
+  "appId": "com.hitihaunui.app",
+  "appName": "Hitihaunui",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
